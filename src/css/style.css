@@ -93,22 +93,28 @@ body{
    justify-content: start;
    align-items: center;
    gap: 32px;   
+   text-transform: uppercase;
 }
 
 
 .button{
-   padding: 16px 32px;
+   padding: 10px 30px;
    color: var(--dark-20);
    font-size: 16px;
    font-weight: 600;
    border-radius: 4px;
-   border: 1px solid var(--dark-20);
-   background: #131318;
-   text-transform: uppercase;
 } 
+
+.button:hover{
+   opacity: 0.7;
+}
 
 .destaque {
    background: var(--brand-color);
    border: none;
 }
 
+.trailerBtn{
+   border: 1px solid var(--dark-20);
+   background: #131318;
+}
