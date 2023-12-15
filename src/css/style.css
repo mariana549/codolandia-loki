@@ -108,7 +108,7 @@ body{
 } 
 
 .destaque {
-   border-radius: 4px;
    background: var(--brand-color);
    border: none;
 }
+
