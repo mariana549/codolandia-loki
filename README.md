@@ -19,7 +19,7 @@ Veja como o projeto ficou em diferentes dispositivos:
 
 ## 🔗 Sobre o projeto
 
-Este projeto é uma página web que mostra as habilidades em HTML e CSS avançado. A página é inspirada no site da Disney+, mas com foco na série Loki, um dos personagens mais populares do universo Marvel. A página é atraente, dinâmica e responsiva, e permite ao usuário assistir ao trailer do filme escolhido. A página pode ser acessada [aqui]().
+Este projeto é uma página web que mostra as habilidades em HTML e CSS avançado. A página é inspirada no site da Disney+, mas com foco na série Loki, um dos personagens mais populares do universo Marvel. A página é atraente, dinâmica e responsiva, e permite ao usuário assistir ao trailer do filme escolhido. A página pode ser acessada [aqui](https://codolandia-loki.vercel.app/).
 
 
 ## 💻 Tecnologias
