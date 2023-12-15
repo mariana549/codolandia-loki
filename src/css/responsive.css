@@ -1,4 +1,4 @@
-@media (max-width: 1440px){
+@media (max-width: 1024px){
    .main{
       grid-template-areas: 
       "info-topo"
@@ -31,8 +31,17 @@
    }
 
    .tempoEstrelas{
-      justify-content: center;
-      gap: 32px
+      /* height: 100%; */
+      gap: 32px;
+      /* align-items: center; */
+   }
+
+   .classificacao{
+      width: 24px;
+      height: 24px;
    }
    
+   .bnt{
+      justify-content: center; 
+   }
 }
