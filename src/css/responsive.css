@@ -28,12 +28,12 @@
 
    .informacoes{
       font-size: 20px;
+      padding: 0;
+      margin: 1%;
    }
 
    .tempoEstrelas{
-      /* height: 100%; */
       gap: 32px;
-      /* align-items: center; */
    }
 
    .classificacao{
@@ -45,3 +45,44 @@
       justify-content: center; 
    }
 }
+
+@media (max-width:600px) {
+   .main{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      height: 100%;
+   }
+
+   .info-topo{
+      margin-top: 13%;
+      font-size: 18px;
+      margin-bottom: 0;
+   }
+
+   .info-topo{
+      font-size: 48px;
+   }
+
+   .img{
+      display: none;
+      margin-bottom: 0;
+   }
+   .informacoes{
+      background-color: var(--dark-10);
+      padding: 32px;
+      border-radius: 16px 16px 0px 0px;
+      font-size: 16px;
+      margin: 0;
+   }
+
+   .bnt{
+      flex-direction: column;
+   }   
+
+   .button{
+      width: 100%;
+      text-align: center;
+   } 
+
+   }

@@ -1,6 +1,7 @@
 :root{
    --brand-color: #0077DC;
-   --dark-10:hwb(240 7% 91% / 0.800);
+   --fundo:hwb(240 7% 91% / 0.800);
+   --dark-10: #131318;
    --dark-20:#FFFFFF;
 
 }
