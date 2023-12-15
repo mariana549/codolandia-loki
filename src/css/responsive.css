@@ -1,3 +1,38 @@
-/* @media screen {
+@media (max-width: 1440px){
+   .main{
+      grid-template-areas: 
+      "info-topo"
+      "img"
+      "informacoes"
+      ;
+   }
    
-} */
+ .info-topo{
+   margin-bottom: 7.1%;
+   font-size: 24px;
+   }
+
+   .info-topo h2{
+      font-size: 88px;
+   }
+
+   .img{
+      display: flex;
+      justify-content: center;
+      margin-bottom: 6%;
+   }
+
+   .img-loki-mini{
+      height: 333px;
+   }
+
+   .informacoes{
+      font-size: 20px;
+   }
+
+   .tempoEstrelas{
+      justify-content: center;
+      gap: 32px
+   }
+   
+}
